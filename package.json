@@ -1,6 +1,6 @@
 {
   "name": "@baranwang/electron-forge-maker-builder",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "electron forge maker with electron builder",
   "main": "dist/builder.js",
   "types": "dist/builder.d.ts",
