@@ -5,7 +5,7 @@
   "main": "dist/builder.js",
   "types": "dist/builder.d.ts",
   "scripts": {
-    "prepublish": "tsc"
+    "prepublishOnly": "tsc"
   },
   "repository": {
     "type": "git",
