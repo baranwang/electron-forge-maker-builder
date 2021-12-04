@@ -1,0 +1,30 @@
+{
+  "name": "@baranwang/electron-forge-maker-builder",
+  "version": "0.0.0",
+  "description": "electron forge maker with electron builder",
+  "main": "dist/builder.js",
+  "types": "dist/builder.d.ts",
+  "scripts": {
+    "prepublish": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/baranwang/electron-forge-maker-builder.git"
+  },
+  "keywords": [
+    "electron-forge"
+  ],
+  "author": "baranwang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baranwang/electron-forge-maker-builder/issues"
+  },
+  "homepage": "https://github.com/baranwang/electron-forge-maker-builder#readme",
+  "dependencies": {
+    "@electron-forge/maker-base": "^6.0.0-beta.61",
+    "app-builder-lib": "^22.14.10"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
+}
