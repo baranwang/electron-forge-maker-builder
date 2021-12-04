@@ -1,0 +1,4 @@
+!dist/
+src/
+.github/
+pnpm-lock.yaml
