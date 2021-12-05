@@ -1,5 +1,6 @@
 !dist/
 src/
+example/
 .github/
 pnpm-lock.yaml
 tsconfig.json

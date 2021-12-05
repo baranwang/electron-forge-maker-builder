@@ -5,6 +5,7 @@
   "main": "dist/builder.js",
   "types": "dist/builder.d.ts",
   "scripts": {
+    "dev": "tsc --watch",
     "prepublishOnly": "tsc"
   },
   "repository": {
